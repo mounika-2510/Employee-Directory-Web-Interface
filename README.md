@@ -2,7 +2,7 @@
 
 A responsive and interactive Employee Directory built with HTML, CSS, JavaScript, and Freemarker templates for the AJACKUS Frontend Assignment.
 
-![Employee Directory Screenshot](https://res.cloudinary.com/drecb9hgv/image/upload/v1752298847/Screenshot_2025-07-12_110903_kcjvyp.png)
+![Employee Directory Screenshot](https://res.cloudinary.com/drecb9hgv/image/upload/v1752302444/Screenshot_2025-07-12_120926_w6itzr.png)
 
 ## 🎯 Objective
 
