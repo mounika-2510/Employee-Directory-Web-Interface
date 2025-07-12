@@ -175,7 +175,7 @@ employee-directory/
 **Problem**: Comprehensive client-side validation with real-time feedback
 **Solution**: Created a robust validation system with field-specific error handling
 
-### **Challenge 4: Freemarker Integration**
+### **Challenge 3: Freemarker Integration**
 **Problem**: Seamlessly integrating static and dynamic content
 **Solution**: Used template inheritance and proper data injection techniques
 
